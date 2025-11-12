@@ -48,7 +48,7 @@ com.utn.productosapi
     ├── StockInsuficienteException.java
     ├── ErrorResponse.java
     └── GlobalExceptionHandler.java
-
+```
 
 ---
 
